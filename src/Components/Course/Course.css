@@ -1,0 +1,10 @@
+.eachCourse{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 3px 2px 15px rgb(121, 118, 118);
+}
+.twinContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

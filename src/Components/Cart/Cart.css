@@ -1,0 +1,11 @@
+.cart{
+    width: 80%;
+    margin: auto;
+}
+.cart h4{
+   margin-bottom: 20px;
+    color:rgb(44, 39, 139)
+}
+.cart >*{
+    text-align: center;
+}
